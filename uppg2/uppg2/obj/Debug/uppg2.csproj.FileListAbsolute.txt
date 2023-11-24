@@ -1,0 +1,7 @@
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\bin\Debug\uppg2.exe.config
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\bin\Debug\uppg2.exe
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\bin\Debug\uppg2.pdb
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\obj\Debug\uppg2.csproj.AssemblyReference.cache
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\obj\Debug\uppg2.csproj.CoreCompileInputs.cache
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\obj\Debug\uppg2.exe
+C:\Users\rosv06002\Documents\GitHub\ProgrameringsOlympiaden\uppg2\uppg2\obj\Debug\uppg2.pdb
